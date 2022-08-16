@@ -1,2 +1,3 @@
-# pollbot-
-A discord poll bot with 👍, 👎 and 🤷‍♂️
+
+A discord poll bot with react 👍, 👎 and 🤷‍♂️
+on the command +poll
